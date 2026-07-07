@@ -1,14 +1,14 @@
 services:
-  prohomeguard:
+  tidyfacility:
     build:
       context: .
       dockerfile: Dockerfile
-    image: prohomeguard:latest
-    container_name: prohomeguard
+    image: tidyfacility-site:latest
+    container_name: tidyfacility-site
     restart: unless-stopped
     environment:
       NODE_ENV: production
-      NEXT_PUBLIC_SITE_URL: https://prohomeguard.com
+      NEXT_PUBLIC_SITE_URL: https://tidyfacility.com
       PORT: 3000
       HOSTNAME: 0.0.0.0
     ports:

@@ -12,7 +12,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "2.0",
@@ -27,7 +27,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "17.0",
     "cpc": "0.7",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "3.0",
@@ -42,7 +42,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1.6",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "4.0",
@@ -57,7 +57,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "1.5",
     "priority": "Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "5.0",
@@ -72,7 +72,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "0.25",
     "priority": "Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "6.0",
@@ -87,7 +87,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "0.5",
     "priority": "Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "7.0",
@@ -102,7 +102,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "7.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "8.0",
@@ -117,7 +117,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "9.0",
@@ -132,7 +132,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "10.0",
@@ -147,7 +147,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "0.4",
     "priority": "Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "11.0",
@@ -162,7 +162,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "1.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "12.0",
@@ -177,7 +177,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "0.8",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "13.0",
@@ -192,7 +192,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "1.0",
     "cpc": "0.7",
     "priority": "Medium",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "14.0",
@@ -207,7 +207,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "35.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "15.0",
@@ -222,7 +222,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "20.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "16.0",
@@ -237,7 +237,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "17.0",
@@ -252,7 +252,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "12.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "18.0",
@@ -267,7 +267,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "4.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "19.0",
@@ -282,7 +282,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "4.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "20.0",
@@ -297,7 +297,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "15.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "21.0",
@@ -312,7 +312,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "4.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "22.0",
@@ -327,7 +327,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "4.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "23.0",
@@ -342,7 +342,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "4.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "24.0",
@@ -357,7 +357,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "9.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "25.0",
@@ -372,7 +372,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "7.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "26.0",
@@ -387,7 +387,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "6.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "27.0",
@@ -402,7 +402,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "6.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "28.0",
@@ -417,7 +417,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "29.0",
@@ -432,7 +432,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "30.0",
@@ -447,7 +447,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "6.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "31.0",
@@ -462,7 +462,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "5.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "32.0",
@@ -477,7 +477,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "4.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "33.0",
@@ -492,7 +492,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "27.0",
     "cpc": "4.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "34.0",
@@ -507,7 +507,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "5.0",
     "cpc": "4.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "35.0",
@@ -522,7 +522,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "8.0",
     "cpc": "4.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "36.0",
@@ -537,7 +537,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "15.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "37.0",
@@ -552,7 +552,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "10.0",
     "cpc": "4.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "38.0",
@@ -567,7 +567,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "4.0",
     "cpc": "4.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "39.0",
@@ -582,7 +582,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "4.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "40.0",
@@ -597,7 +597,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "4.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "41.0",
@@ -612,7 +612,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "42.0",
@@ -627,7 +627,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "43.0",
@@ -642,7 +642,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "44.0",
@@ -657,7 +657,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "45.0",
@@ -672,7 +672,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "46.0",
@@ -687,7 +687,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "47.0",
@@ -702,7 +702,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "48.0",
@@ -717,7 +717,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "49.0",
@@ -732,7 +732,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "5.0",
     "priority": "Top Priority",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "50.0",
@@ -747,7 +747,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "51.0",
@@ -762,7 +762,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "52.0",
@@ -777,7 +777,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "53.0",
@@ -792,7 +792,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "54.0",
@@ -807,7 +807,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "4.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "55.0",
@@ -822,7 +822,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "56.0",
@@ -837,7 +837,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "57.0",
@@ -852,7 +852,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "58.0",
@@ -867,7 +867,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "59.0",
@@ -882,7 +882,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "60.0",
@@ -897,7 +897,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "61.0",
@@ -912,7 +912,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "62.0",
@@ -927,7 +927,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "3.0",
     "cpc": "3.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "63.0",
@@ -942,7 +942,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "64.0",
@@ -957,7 +957,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "2.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "65.0",
@@ -972,7 +972,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.5",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "66.0",
@@ -987,7 +987,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "67.0",
@@ -1002,7 +1002,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "68.0",
@@ -1017,7 +1017,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "69.0",
@@ -1032,7 +1032,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "70.0",
@@ -1047,7 +1047,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "71.0",
@@ -1062,7 +1062,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "72.0",
@@ -1077,7 +1077,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "73.0",
@@ -1092,7 +1092,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "74.0",
@@ -1107,7 +1107,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "75.0",
@@ -1122,7 +1122,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "76.0",
@@ -1137,7 +1137,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "77.0",
@@ -1152,7 +1152,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "78.0",
@@ -1167,7 +1167,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "79.0",
@@ -1182,7 +1182,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "80.0",
@@ -1197,7 +1197,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "81.0",
@@ -1212,7 +1212,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "82.0",
@@ -1227,7 +1227,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "83.0",
@@ -1242,7 +1242,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "84.0",
@@ -1257,7 +1257,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "85.0",
@@ -1272,7 +1272,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "86.0",
@@ -1287,7 +1287,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "87.0",
@@ -1302,7 +1302,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "88.0",
@@ -1317,7 +1317,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "89.0",
@@ -1332,7 +1332,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "90.0",
@@ -1347,7 +1347,7 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   },
   {
     "id": "91.0",
@@ -1362,6 +1362,6 @@ export const RAW_PAGES = [
     "keywordDifficulty": "0.0",
     "cpc": "2.0",
     "priority": "High",
-    "ctaStrategy": "Call 1-888-689-6881"
+    "ctaStrategy": "Call 1-888-621-1053"
   }
 ] as const;
